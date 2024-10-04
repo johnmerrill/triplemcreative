@@ -6,15 +6,15 @@
     "slug": "ardell-stone-school-of-dancing",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "98.06%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.72%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
-    "time": 5246,
-    "timeDay": 5839,
-    "timeWeek": 5485,
-    "timeMonth": 6026,
-    "timeYear": 5246,
+    "time": 5352,
+    "timeDay": 10511,
+    "timeWeek": 6239,
+    "timeMonth": 6238,
+    "timeYear": 5352,
     "dailyMinutesDown": {
       "2024-10-02": 28
     }
