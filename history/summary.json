@@ -4,7 +4,7 @@
     "url": "https://ardellstonedance.com/",
     "icon": "https://icons.duckduckgo.com/ip3/ardellstonedance.com.ico",
     "slug": "ardell-stone-school-of-dancing",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
@@ -16,6 +16,7 @@
     "timeMonth": 5792,
     "timeYear": 5014,
     "dailyMinutesDown": {
+      "2024-10-13": 0,
       "2024-10-11": 20,
       "2024-10-02": 28
     }
